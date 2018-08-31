@@ -34,17 +34,17 @@
 
 * Các mô hình dịch vụ
 
-    1. IaaS(Infrastructure as a Service): Dịch vụ hạ tầng, nó cung cấp cho mọi người hạ tầng thô, thường là các máy ảo như là một dịch vụ.
+    1. **IaaS(Infrastructure as a Service)**: Dịch vụ hạ tầng, nó cung cấp cho mọi người hạ tầng thô, thường là các máy ảo như là một dịch vụ.
         *Những đặc tính của IaaS*
             * Nó cung cấp tài nguyên như dịch vụ bao gồm: máy chủ, thiết bị mạng, bộ nhớ, CPU, ổ cứng..
             * Khả năng mở rộng linh hoạt.
             * Nhiều người thuê có thể dung chung trên một tài nguyên.
 
-    2. PaaS(Platform as a Service): 
+    2. **PaaS(Platform as a Service)**: 
         * Cung cấp API cho phát triển ứng dụng
         * Cung cấp các điều kiện cho quy trình thiết kế ứng dụng, phát triển, kiểm tra, triển khia và lưu trữ ứng dụng
 
-    3. SaaS(Software as a Service):
+    3. **SaaS(Software as a Service)**:
         * Cung cấp dịch vụ phần mềm thực thi từ xa, các phần mềm này có đòi hỏi việc truy xuất, quản lý qua mạng.
 
 Một cái nhìn tổng quan về 3 mô hình dịch vụ như sau:
