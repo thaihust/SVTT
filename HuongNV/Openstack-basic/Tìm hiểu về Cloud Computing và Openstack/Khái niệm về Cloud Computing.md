@@ -23,7 +23,7 @@
 
     * Private Cloud: Là các dịch vụ điện toán đám mây được cung cấp trong các doanh nghiệp. Những *đám mây* này tồn tại bên trong tường lửa của công ty và được các doanh nghiệp trực tiếp quản lý. Đây là xu thế tất yếu cho các doanh nghiệp nhằm tối ưu hạ tầng công nghệ thông tin.
 
-   ![Imgur](https://i.imgur.com/7yrNO1w.jpg)
+   ![]https://image.slidesharecdn.com/baocaoccandopenstackv5-121224211633-phpapp02/95/cloud-computing-and-openstack-10-638.jpg?cb=1356385065
 
     * Hybrid Cloud: Là sự kết hợp của *private cloud* và *public cloud*. Nó cho ta khai thác điểm mạnh của từng mô hình cũng như đưa ra phương thức sử dụng tối ưu cho người sử dụng. Những **đấm mây** này thường do doanh nghiệp tạo ra và việc quản lý sẽ được phân chia giữa doanh nghiệp và nhà cung cấp dịch vụ.
 
