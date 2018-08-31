@@ -18,7 +18,7 @@
 
 Openstack là một platform điện toán đám mây nguồn mở hỗ trợ cả public cloud và private cloud. Nó cung cấp giải pháp xây dựng hạ tầng điện toán đám mây, có khả năng mở rộng và nhiều tính năng phong phú.
 
-<img src="https://imgur.com/a/RrF7fYB">
+<img src="https://imgur.com/a/RrF7fYB.png">
 
 <a name="1.2"></a>
 
@@ -35,7 +35,7 @@ Openstack là một platform điện toán đám mây nguồn mở hỗ trợ c�
 
 Openstack không phải là một dự án đơn lẻ mà là một nhóm các dự án mã nguồn mở nhằm mục đích cung cấp các dịch vụ cloud hoàn chỉnh. Openstack chứa nhiều thành phần như: Nova, Glance, Swift, Neutron, Cinder, Heat, Ceilometer
 
-<img src="https://imgur.com/a/976dUbu">
+<img src="https://imgur.com/a/976dUbu.png">
 
     * Nova-Compute: module quản lý và cung cấp máy ảo. Nó hỗ trợ hiều hypervisors như KVM, QEMU, LXC, XenServer... Compute là một cung cụ mạnh mà có thể điều khiển toàn bộ các công việc: tạo, xóa bỏ máy ảo, security, access control. Bạn có thể điều khiển tất cả bằng lệnh hoặc từ giao diện dashboard trên web.
 
