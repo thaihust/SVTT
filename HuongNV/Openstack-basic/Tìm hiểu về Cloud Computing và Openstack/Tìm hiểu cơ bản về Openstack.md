@@ -18,7 +18,7 @@
 
 Openstack là một platform điện toán đám mây nguồn mở hỗ trợ cả public cloud và private cloud. Nó cung cấp giải pháp xây dựng hạ tầng điện toán đám mây, có khả năng mở rộng và nhiều tính năng phong phú.
 
-<img src="https://imgur.com/a/RrF7fYB.png">
+!(https://imgur.com/a/RrF7fYB)
 
 <a name="1.2"></a>
 
