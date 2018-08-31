@@ -14,6 +14,8 @@
 Keystone hay còn gọi là Openstack identity, là dịch vụ được phát triển nhằm xác thực người dùng và quyền hạn của người dùng đó trong môi cloud Openstack. Keystone cung cấp cho chúng ta một mã xác thực hay còn gọi là `token` để cho phép `user` truy cập và sử dụng các dịch vụ trong môi trường cloud.
 
 
+![Imgur](https://i.imgur.com/fCGE307.png)
+
 
 <a name="2"></a>
 
@@ -35,3 +37,8 @@ Keystone hay còn gọi là Openstack identity, là dịch vụ được phát t
 <a name="3"></a>
 
 **3. Lợi ích của Keystone**
+
+* Quản lý thông tin người dùng, bao gồm user và password. Mỗi user sẽ được map tới từng dịch vụ cụ thể nào đó.
+* Keystone cung cấp các registry để chưa các project nhằm tách biệt các nguồn tài nguyên trong hệ thống như server, images...
+* A registry role được sử dụng được sử dụng để ủy quyền giữa Keystone và các file thiết lập `policy` cho từng dịch vụ
+* Một danh mục lưu trữ các Openstack service, các endpoints, regions, cho phép các user truy cập và sử dụng nó.
