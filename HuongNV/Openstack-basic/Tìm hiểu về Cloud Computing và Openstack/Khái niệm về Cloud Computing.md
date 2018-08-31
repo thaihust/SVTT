@@ -27,7 +27,7 @@
 
     * Hybrid Cloud: Là sự kết hợp của *private cloud* và *public cloud*. Nó cho ta khai thác điểm mạnh của từng mô hình cũng như đưa ra phương thức sử dụng tối ưu cho người sử dụng. Những **đấm mây** này thường do doanh nghiệp tạo ra và việc quản lý sẽ được phân chia giữa doanh nghiệp và nhà cung cấp dịch vụ.
 
-    <img src="[Imgur](https://i.imgur.com/GUCC6ld.png)">
+    <img src="https://i.imgur.com/GUCC6ld.jpg">
 
     * Comminity Cloud: Là mô hình được xây dựng dưới sự hợp tác của các công ty và nhà cung cấp dịch vụ xây dựng nên.
 
@@ -49,7 +49,7 @@
 
 Một cái nhìn tổng quan về 3 mô hình dịch vụ như sau:
 
-<img src="[Imgur](https://i.imgur.com/7yrNO1w.jpg)">
+<img src="https://i.imgur.com/7yrNO1w.jpg">
 
 
 * 5 đặc tính của Cloud Computing
