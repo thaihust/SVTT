@@ -11,7 +11,7 @@
 
 Điện toán đám mây (Cloud Computing) theo định nghĩa của IBM là việc cung cấp các tài nguyên máy tính cho người dùng tùy theo mục đích sử dụng thông qua kết nối **Internet**. Nguồn tài nguyên đó có thể là bất kể thứ gì liên quan tới điện toán và máy tính, ví dụ như phần mềm, phần cứng, hạ tậng mạng cho đến các máy chủ và mạng lưới máy chủ cỡ lớn.
 
-<img src="https://imgur.com/a/35eBgQ1">
+![Imgur](https://i.imgur.com/DkUgYqQ.png)
 
 <a name="2"></a>
 
