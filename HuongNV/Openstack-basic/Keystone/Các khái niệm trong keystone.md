@@ -96,6 +96,6 @@ Projects và Domain rất giống nhau ở chỗ cả hai đều là các thực
 **8. Catalogs**
 
 - Danh mục dịch vụ (service catalogs) là cần thiết cho môi trường cloud Openstack. Nó chứa các URL và end-points của mỗi different sirvice trong Openstack. Không có Catalogs, user và application sẽ không rõ nới nào để gửi đi các request tạo ra các VM hoặc store objects. 
-- Mỗi service catalog được chia thành các end-points, mỗi endpoints được chia thành URL admin, URL internal và public URL 
+- Mỗi service catalog được chia thành các end-points, mỗi endpoints được chia thành URL admin, URL internal và public URL
 
 ![Imgur](https://i.imgur.com/kW1repu.png)
