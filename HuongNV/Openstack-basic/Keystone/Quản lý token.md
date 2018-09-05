@@ -129,6 +129,8 @@ Ví dụ dơn giản về UUID token như sau: `468da447bd1c4821bbc5def0498fd441
 
 ![Imgur](https://i.imgur.com/voI5ZbZ.png)
 
+![Imgur](https://i.imgur.com/RPLfT4m.png)
+
 
 <a name="3.1"></a>
 
@@ -138,14 +140,10 @@ Ví dụ dơn giản về UUID token như sau: `468da447bd1c4821bbc5def0498fd441
 ![Imgur](https://i.imgur.com/puM05pC.png)
 
 
-- So sánh PKI và PKIz:
-
-![Imgur](https://i.imgur.com/RPLfT4m.png)
-
 
 <a name="4"></a>
 
-**4. Ferner Token**
+**4. Fernet Token**
 
 - Fernet token là mã token mới nhất. Nó có độ dài 255 kí tự, kích thước lớn hơn UUID toke và nhỏ hơn PKI token.
 - Fernet token chuwqas một số thông tin như: user identifier, a project identifier, token expiration và một số thông tin khác.
